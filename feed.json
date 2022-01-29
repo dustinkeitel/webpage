@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Remember Websites? Man, I Remember Websites.",
+    "description": "",
+    "home_page_url": "https://dustinkeitel.github.io/webpage",
+    "feed_url": "https://dustinkeitel.github.io/webpage/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Dustin"
+    },
+    "items": [
+    ]
+}
