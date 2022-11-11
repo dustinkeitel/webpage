@@ -3,36 +3,38 @@
     <title>Remember Websites? Man, I Remember Websites.</title>
     <link href="https://www.dustinkeitel.com/feed.xml" rel="self" />
     <link href="https://www.dustinkeitel.com" />
-    <updated>2022-01-30T21:43:47-05:00</updated>
+    <updated>2022-02-08T23:05:10-05:00</updated>
     <author>
         <name>Dustin</name>
     </author>
     <id>https://www.dustinkeitel.com</id>
 
     <entry>
-        <title>A collection of the coolest tools, technologies, and websites  I&#x27;ve seen</title>
+        <title>A collection of the most useful tools, technologies, and websites I&#x27;ve seen</title>
         <author>
             <name>Dustin</name>
         </author>
         <link href="https://www.dustinkeitel.com/a-collection-of-the-coolest-mostly-web-tools-and-technologies-ive-seen.html"/>
         <id>https://www.dustinkeitel.com/a-collection-of-the-coolest-mostly-web-tools-and-technologies-ive-seen.html</id>
 
-        <updated>2022-01-30T21:43:47-05:00</updated>
+        <updated>2022-02-08T23:05:10-05:00</updated>
             <summary>
                 <![CDATA[
-                    Single Page static website with only css and html - Not what I'm using for this project, but I considered it Pandoc - If you need to convert files from one markup format into another, pandoc is your swiss-army knife Gather - Online meetings that&hellip;
+                    Publii - Open-Source CMS for Static Site Web Page Generation and what I am using to build this site (hosted thru Github Pages) Single Page static website with only css and html - Not what I'm using for this project, but I considered it Yunohost&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><a href="https://john-doe.neocities.org/#home">Single Page static website with only css and html</a> - Not what I'm using for this project, but I considered it</p>
-<p><a href="https://pandoc.org/index.html">Pandoc - If you need to convert files from one markup format into another, pandoc is your swiss-army knife</a></p>
+                <p><a href="https://getpublii.com/">Publii - Open-Source CMS for Static Site Web Page Generation</a> and what I am using to build this site (hosted thru Github Pages)</p>
+<p><a href="https://john-doe.neocities.org/#home">Single Page static website with only css and html</a> - Not what I'm using for this project, but I considered it</p>
+<p><a href="https://yunohost.org/">Yunohost</a> - The simplest way I've found to host your own cloud. </p>
 <p><a href="https://www.gather.town/">Gather - Online meetings that look like a videogame</a></p>
 <p><a href="https://suricrasia.online/opus-databending-drumkit/">Opus databending drumkit</a></p>
 <p><a href="https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/">Hosting SQLite databases on Github Pages - (or any static file hoster) - phiresky's blog</a></p>
 <p><a href="https://the-algorithms.com/">The Algorithms - GitHub's largest open-source algorithm library</a></p>
 <p><a href="https://www.thelifeyoucansave.org/">The Life You Can Save - Best Charities for Effective Giving</a></p>
 <p><a href="https://everynoise.com/">Every Noise at Once - Click on any genre to hear a song</a></p>
+<p> </p>
             ]]>
         </content>
     </entry>
