@@ -1,0 +1,72 @@
+==================================================================
+https://keybase.io/dustinkeitel
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.dustinkeitel.com
+  * I am dustinkeitel (https://keybase.io/dustinkeitel) on keybase.
+  * I have a public key with fingerprint B861 4578 8327 428F 360E  9BB9 4793 ADF3 A6F8 BA00
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01018800f877c0976c5fd7e1d1d291fbd16cbd74f77ab28267422bac347d6329ee0c0a",
+      "fingerprint": "b86145788327428f360e9bb94793adf3a6f8ba00",
+      "host": "keybase.io",
+      "key_id": "4793adf3a6f8ba00",
+      "kid": "01018800f877c0976c5fd7e1d1d291fbd16cbd74f77ab28267422bac347d6329ee0c0a",
+      "uid": "83befb6cb504852b1e75eb4afba2ae19",
+      "username": "dustinkeitel"
+    },
+    "service": {
+      "hostname": "www.dustinkeitel.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1669606227,
+  "expire_in": 157680000,
+  "prev": "58ac25a2013c0f3c04349a36ac414b5cde799e21feccf8eeee5d1a8534532fa9",
+  "seqno": 30,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtkmtMFFcUx3epUEQpRKkBhCpjaYss67wfWxcLJCgUylZEeYQu87gDE5adZXdY
+pGSrUILQSqQlmhaoQEVN08Tah+GRCgYbIkKxPiGFta1CGqAEChTEJqazRJN+6Mfe
+5Obmnvv//+45J6fe/zmNr/b5reW2o8l5P2oHpzgNXxWdUw5xslAGGcqhQrB2AIsA
+HIq5UBIgAwQjMELTMCzSFMXDDEXyhChQABEQAWUQkRMQkucEChcpiuVQGiUpHEU5
+lsdwSiAxlAEA5mEW0kGiZM0HdptdsioqlqNJBCcomsZQ1UCLGAkDhuMYnGIwVhAx
+lhRpjoVh1VggOzwONTmOdQC9JKsx9WJeS+8/9P9z3iVrOBrjgMipFgLGaQLlEEAR
+gMNZkWNRFiCMR+gAditbBFS1UOJQJGshkBRggVw6SH1xSjzwNNdTzVNVaWmp/t9K
+PS8XqRybXVZkXraoigJFsTkMHoJSZluzAM78FGbmJKug9lR1OIHdIclWyICoSl6R
+PHSEJBkSJlGU0kHgsE2yA7PkURAUqXYFhj3/AOBUmQTN8ijBojCC8bCobhzDGRYj
+WR5HcI7gBUAxDEAREfC8SAN1EQLC0gSGExgqsp7SHaDYKkMGTKUqbL7KdEj5VlYp
+sQPI5Vfrha3TaH014Vsi1kVrDrTMh86vFBd9ce/ZIHp7eaZQ47c+8Fnk3JVAzZcn
+TQ0NYXmDrDF8uP3a0u7taT0zO/WrZ7SB5+cfnn2jrm1zUvDxkWzjQH/8TpfmWF7Y
+aOZK+xPXwLZvLmV8vz2k09lpG7vdj4aW/eQdc7uBqK3pCPquFn475Kb/UnrkSzNL
+qxNb3LmIT1SX33T1vqhUYiK6Ud5WqitNRYbOL043tKwvHGKyJ3sDpi5Dfx7LSvhw
+sCe5Y3h6LlHSjur+SEmDC4wx74enDNwcoIISKmO6O8LGmhMTPtAvxzX/Yi9u3lP1
+cyp39kLOC0WGPaODE/u37s/tTY7w4oQrbTsq9dfqkwNNUeVd3r/VmVofr3bMGyuS
+zozdyR8MGvG5cfVyU01ce/rVCvf4J1Vlpl1ds22zc6e/7lzo9Bur3vCwze5wRL5p
+zF2kfxerEy79sDHh5IrVv/WEf+47Wd3aGp/rwU1/4bEBU0el+uslm1eaItw9BzJm
+Ni03fd7ykfveg5SNqY8aQ3JeOX2wNzbt5b+DRIsrFXxlyLrb/5poKjTVVx40D/fU
+ZbqPOKv2LXf1Tbh6bnRn92YsvvdZ3x3m9cbJzH5Dv8/cCa+V9FMLSReGNtwqBzb+
+/qrROhux6dtD7z548nj8SHyMP5AOfToSunTx1UnlcFyyYtl1d69cc8tpfGsAT2x9
+0RDQvPDxatTsbs4YdPF4RZ878tepeI0u+L4lfe/4I9+55XNesf8A
+=kKAt
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dustinkeitel
+
+==================================================================
