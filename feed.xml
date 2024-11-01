@@ -3,7 +3,7 @@
     <title>Remember Websites? Man, I Remember Websites.</title>
     <link href="https://www.dustinkeitel.com/feed.xml" rel="self" />
     <link href="https://www.dustinkeitel.com" />
-    <updated>2024-11-01T09:21:11-04:00</updated>
+    <updated>2024-11-01T09:42:20-04:00</updated>
     <author>
         <name>Dustin</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://www.dustinkeitel.com/a-collection-of-the-coolest-mostly-web-tools-and-technologies-ive-seen.html"/>
         <id>https://www.dustinkeitel.com/a-collection-of-the-coolest-mostly-web-tools-and-technologies-ive-seen.html</id>
 
-        <updated>2024-11-01T09:21:11-04:00</updated>
+        <updated>2022-01-30T21:37:38-05:00</updated>
             <summary>
                 <![CDATA[
                     Publii - Open-Source CMS for Static Site Web Page Generation and what I am using to build this site (hosted thru Github Pages) Single Page static website with only css and html - Not what I'm using for this project, but I considered it Yunohost&hellip;
@@ -36,7 +36,8 @@
 <p><a href="https://everynoise.com/">Every Noise at Once - Click on any genre to hear a song</a></p>
 <p><a href="https://standardebooks.org/" target="_blank" rel="noopener">Standard Ebooks</a> - public domain ebooks that are lovingly formatted, open source, free of U.S. copyright restrictions, and free of cost. Pairs particularly well with...</p>
 <p><a href="https://calibre-ebook.com/" target="_blank" rel="noopener">Calibre</a>, the best eBook management software I've found</p>
-<p><a href="https://itty.bitty.site/" target="_blank" rel="noopener">itty.bitty.site</a> - compress all the html/js/css necessary to make a one-page website *into the link itself*</p>
+<p><a href="https://itty.bitty.site/" target="_blank" rel="noopener">itty.bitty.site</a> - compress all the html/js/css necessary to make a one-page website <em>into the link itself</em></p>
+<p><a href="https://mixxx.org/" target="_blank" rel="noopener noreferrer">Mixxx.org</a> - This is the FOSS DJ software you were looking for</p>
 <p> </p>
             ]]>
         </content>
